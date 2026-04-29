@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing **B.E. in Computer Science** (Expected 2026)
+- 🎓 Pursuing **B.E. in Computer Science**
 - 💡 Passionate about **Web Development & Problem Solving**
 - 🌱 Currently learning **Core Java & SQL**
 - 👩‍💻 Building real-world web applications
