@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitamugli&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitamugli&theme=tokyonight" />
