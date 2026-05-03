@@ -6,58 +6,66 @@
 ## 🚀 About Me
 - 🎓 Pursuing **B.E. in Computer Science**
 - 💡 Passionate about **Web Development & Problem Solving**
-- 🌱 Currently learning **Core Java & SQL**
-- 👩‍💻 Building real-world web applications
-- 🤝 Open to **internships & collaboration**
+- 🌱 Currently learning **Core Java, SQL & DSA**
+- 👩‍💻 Building real-world projects to improve skills
+- 🤝 Open to **internships & collaboration opportunities**
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: akmugli7@gmail.com  
-- 📍 Location: Bidar, India  
-- 🔗 GitHub: https://github.com/ankitamugli  
-- 💼 LinkedIn: https://www.linkedin.com/in/ankita-mugli-1243452b5  
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://github.com/ankitamugli">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ankita-mugli-1243452b5">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+</p>
+
+- 📧 Email: **akmugli7@gmail.com**
+- 📍 Location: **Bidar, India**
 
 ---
 
 ## 🛠️ Languages & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql" />
 </p>
 
 ---
 
 ## 💼 Experience
-### 🏢 Web Development Intern - Dhee Coding Lab
+### 🏢 Web Development Intern — Dhee Coding Lab
 📅 Jan 2026 - Present  
 
-- Worked on **HTML, CSS, JavaScript, SQL**
-- Built and tested web applications
-- Fixed bugs and improved performance
-- Collaborated with team members
-- Participated in coding workshops
+- Developed responsive web pages using **HTML, CSS, JavaScript**
+- Worked with **SQL** for database operations
+- Debugged and optimized application performance
+- Collaborated with team members on real-time projects
+- Participated in coding sessions and workshops
 
 ---
 
 ## 📂 Projects
 
-### 🏨 Hotel Room Web Portal
-- Search, compare & book hotel rooms
-- Real-time availability system
-- Simple and user-friendly UI  
-**Tech:** HTML, CSS, Java  
+### 🏨 Hotel Room Booking Web Portal
+- 🔍 Search, compare, and book hotel rooms
+- ⚡ Real-time availability system
+- 🎯 Clean and user-friendly interface  
+**Tech Stack:** HTML, CSS, Java  
 
 ---
 
 ### 🤖 Automation Through Machine Learning
-- Detects and prevents cyber threats
-- Uses pattern analysis for prediction
-- Reduces manual effort  
-**Tech:** Python, Machine Learning  
+- 🔐 Detects and prevents cyber threats
+- 📊 Uses pattern analysis for prediction
+- ⚙️ Reduces manual effort  
+**Tech Stack:** Python, Machine Learning  
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitamugli&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitamugli&theme=tokyonight" />
@@ -66,9 +74,9 @@
 ---
 
 ## 🌟 Goals
-- Become a **Full Stack Developer**
-- Work on real-world impactful projects
-- Improve coding & problem-solving skills daily
+- 🚀 Become a **Full Stack Developer**
+- 💼 Work on real-world impactful projects
+- 📈 Improve coding & problem-solving skills daily
 
 ---
 
