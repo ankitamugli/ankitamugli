@@ -13,18 +13,10 @@
 ---
 
 ## 📫 Connect with Me
-<p align="center">
-  <a href="https://github.com/ankitamugli">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ankita-mugli-1243452b5">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-</p>
-
 - 📧 Email: **akmugli7@gmail.com**
 - 📍 Location: **Bidar, India**
+- 🔗 GitHub: https://github.com/ankitamugli
+- 💼 LinkedIn: https://www.linkedin.com/in/ankita-mugli-1243452b5
 
 ---
 
